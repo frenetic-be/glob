@@ -1,0 +1,15 @@
+.gitignore~
+MANIFEST
+.DS_Store
+dist/
+dist/glob-1.0/*
+dist/glob-1.0
+dist/.DS_Store
+build/
+build/*
+glob.egg-info/
+glob.egg-info/*
+*.pyc
+glob.0.0/
+glob.0.1/
+*.bbprojectd
